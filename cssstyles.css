@@ -1,0 +1,30 @@
+body { 
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    /* Cambia el color de fondo a uno de tu preferemcia */
+    background-color: brown;
+}
+
+header {
+    /* Agrega un color de fondo y color de texto de tu eleccion */
+    background-color: burlywood;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+} 
